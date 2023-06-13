@@ -1,0 +1,4 @@
+contador $15.000
+ventas $16.000
+recepcion $17.000
+jefe $25.000
